@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FARTests.deps.json
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FARTests.runtimeconfig.json
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FARTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/obj/Debug/netcoreapp1.1/FARTests.AssemblyInfo.cs
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FARTests.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FARTests.pdb
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FAR.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/bin/Debug/netcoreapp1.1/FAR.pdb
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/obj/Debug/netcoreapp1.1/FARTests.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR.Tests/obj/Debug/netcoreapp1.1/FARTests.pdb

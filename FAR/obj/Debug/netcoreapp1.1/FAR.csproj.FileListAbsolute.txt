@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/bin/Debug/netcoreapp1.1/FAR.deps.json
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/bin/Debug/netcoreapp1.1/FAR.runtimeconfig.json
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/bin/Debug/netcoreapp1.1/FAR.runtimeconfig.dev.json
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/obj/Debug/netcoreapp1.1/FAR.AssemblyInfo.cs
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/bin/Debug/netcoreapp1.1/FAR.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/bin/Debug/netcoreapp1.1/FAR.pdb
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/obj/Debug/netcoreapp1.1/FAR.dll
+/Users/Guest/Desktop/FindAndReplace.Solution/FAR/obj/Debug/netcoreapp1.1/FAR.pdb
